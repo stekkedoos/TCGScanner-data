@@ -176,8 +176,8 @@
 {"id":"MC","name":"スタートデッキ100 バトルコレクション","sources":[{"kind":"tcgdex","id":"MC"}],"added":"2026-10-29","series":"ポケモンカードゲーム MEGA","released":"2025-12-19","official":742,"total":774},
 {"id":"M5","name":"アビスアイ","sources":[{"kind":"tcgdex","id":"M5"}],"added":"2026-10-29","series":"ポケモンカードゲーム MEGA","released":"2026-05-22","official":81,"total":118},
 {"id":"M2a","name":"MEGAドリームex","sources":[{"kind":"tcgdex","id":"M2a"}],"added":"2026-10-29","series":"ポケモンカードゲーム MEGA","released":"2025-11-28","official":193,"total":250},
-{"id":"M6a","name":"30th CELEBRATION","sources":[{"kind":"tcgdex","id":"M6a"}],"added":"2026-10-29","series":"ポケモンカードゲーム MEGA","released":"2026-09-16","official":103,"total":176},
-{"id":"MF","name":"30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー","sources":[{"kind":"tcgdex","id":"MF"}],"added":"2026-10-29","series":"ポケモンカードゲーム MEGA","released":"2026-09-16","official":40,"total":49},
+{"id":"M6a","name":"30th CELEBRATION","sources":[{"kind":"tcgdex","id":"M6a"},{"kind":"tcgplayer","id":"24721"}],"added":"2026-10-29","series":"ポケモンカードゲーム MEGA","code":"m6a","released":"2026-09-16","official":103,"total":176,"former":["tcp24721"]},
+{"id":"MF","name":"30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー","sources":[{"kind":"tcgdex","id":"MF"},{"kind":"tcgplayer","id":"24856"}],"added":"2026-10-29","series":"ポケモンカードゲーム MEGA","code":"mF","released":"2026-09-16","official":40,"total":49,"former":["tcp24856"]},
 {"id":"M6","name":"ストームエメラルダ","sources":[{"kind":"tcgdex","id":"M6"}],"added":"2026-10-29","series":"ポケモンカードゲーム MEGA","released":"2026-07-31","official":76,"total":113},
 {"id":"M1S","name":"メガシンフォニア","sources":[{"kind":"tcgdex","id":"M1S"}],"added":"2026-10-29","series":"ポケモンカードゲーム MEGA","released":"2025-08-01","official":63,"total":92},
 {"id":"M2","name":"インフェルノX","sources":[{"kind":"tcgdex","id":"M2"}],"added":"2026-10-29","series":"ポケモンカードゲーム MEGA","released":"2025-09-26","official":80,"total":116},
@@ -531,7 +531,5 @@
 {"id":"tcp24206","name":"Vending Machine cards Series 1 (Blue)","sources":[{"kind":"tcgplayer","id":"24206"}],"added":"2026-10-29","total":36},
 {"id":"tcp24207","name":"Vending Machine cards Series 2 (Red)","sources":[{"kind":"tcgplayer","id":"24207"}],"added":"2026-10-29","total":36},
 {"id":"tcp24208","name":"Vending Machine cards Series 3 (Green)","sources":[{"kind":"tcgplayer","id":"24208"}],"added":"2026-10-29","total":52},
-{"id":"tcp24200","name":"World Hobby Fair","sources":[{"kind":"tcgplayer","id":"24200"}],"added":"2026-10-29","total":8},
-{"id":"tcp24721","name":"M6a: MEGA Expansion 30th Celebration","sources":[{"kind":"tcgplayer","id":"24721"}],"added":"2026-10-29","code":"m6a","released":"2026-09-16","official":103,"total":176,"review":true},
-{"id":"tcp24856","name":"MF: 30th CELEBRATION Premium Deck Set Espeon & Umbreon","sources":[{"kind":"tcgplayer","id":"24856"}],"added":"2026-10-29","code":"mF","released":"2026-09-16","official":40,"total":49,"review":true}
+{"id":"tcp24200","name":"World Hobby Fair","sources":[{"kind":"tcgplayer","id":"24200"}],"added":"2026-10-29","total":8}
 ]
