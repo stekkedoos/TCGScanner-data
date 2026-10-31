@@ -235,13 +235,13 @@
 {"id":"tcp1416","name":"EX Hidden Legends","sources":[{"kind":"tcgplayer","id":"1416"}],"added":"2026-10-29","released":"2004-06-14","official":101,"total":3},
 {"id":"tcp24493","name":"e-Reader Sample Cards","sources":[{"kind":"tcgplayer","id":"24493"}],"added":"2026-10-29","released":"2002-08-02","official":93,"total":1},
 {"id":"tcp1418","name":"WoTC Promo","sources":[{"kind":"tcgplayer","id":"1418"}],"added":"2026-10-29","released":"1999-07-01","official":53,"total":2},
-{"id":"tcp1423","name":"Nintendo Promos","sources":[{"kind":"tcgplayer","id":"1423"}],"added":"2026-10-29","official":97,"total":4},
-{"id":"tcp1439","name":"POP Series 5","sources":[{"kind":"tcgplayer","id":"1439"}],"added":"2026-10-29","official":17,"total":1},
-{"id":"tcp1938","name":"Alternate Art Promos","sources":[{"kind":"tcgplayer","id":"1938"}],"added":"2026-10-29","official":145,"total":29},
+{"id":"tcp1423","name":"Nintendo Promos","sources":[{"kind":"tcgplayer","id":"1423"}],"added":"2026-10-29","released":"2003-10-01","official":97,"total":4,"kept":["Released"]},
+{"id":"tcp1439","name":"POP Series 5","sources":[{"kind":"tcgplayer","id":"1439"}],"added":"2026-10-29","released":"2007-03-01","official":17,"total":1,"kept":["Released"]},
+{"id":"tcp1938","name":"Alternate Art Promos","sources":[{"kind":"tcgplayer","id":"1938"}],"added":"2026-10-29","released":"2014-08-13","official":145,"total":29,"kept":["Released"]},
 {"id":"tcp2289","name":"Blister Exclusives","sources":[{"kind":"tcgplayer","id":"2289"}],"added":"2026-10-29","official":149,"total":1},
-{"id":"tcp2175","name":"Burger King Promos","sources":[{"kind":"tcgplayer","id":"2175"}],"added":"2026-10-29","official":130,"total":1},
+{"id":"tcp2175","name":"Burger King Promos","sources":[{"kind":"tcgplayer","id":"2175"}],"added":"2026-10-29","released":"2008-01-01","official":130,"total":1,"kept":["Released"]},
 {"id":"tcp2374","name":"Miscellaneous Cards & Products","sources":[{"kind":"tcgplayer","id":"2374"}],"added":"2026-10-29","official":182,"total":23},
-{"id":"tcp2205","name":"Pikachu World Collection Promos","sources":[{"kind":"tcgplayer","id":"2205"}],"added":"2026-10-29","total":9},
+{"id":"tcp2205","name":"Pikachu World Collection Promos","sources":[{"kind":"tcgplayer","id":"2205"}],"added":"2026-10-29","released":"2010-07-08","total":9,"kept":["Released"]},
 {"id":"tcp2332","name":"Professor Program Promos","sources":[{"kind":"tcgplayer","id":"2332"}],"added":"2026-10-29","official":109,"total":12},
 {"id":"tcp24451","name":"ME: Mega Evolution Promo","sources":[{"kind":"tcgplayer","id":"24451"}],"added":"2026-10-29","released":"2025-09-26","total":21,"review":true}
 ]
