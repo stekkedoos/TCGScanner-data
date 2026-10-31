@@ -195,7 +195,7 @@
 {"id":"sv10.5w","name":"White Flare","sources":[{"kind":"tcgdex","id":"sv10.5w"}],"added":"2026-10-29","series":"Scarlet & Violet","code":"WHT","released":"2025-07-17","official":86,"total":173,"logo":"https://assets.tcgdex.net/en/sv/sv10.5w/logo","symbol":"https://assets.tcgdex.net/univ/sv/sv10.5w/symbol","hosted":["logo"],"missing":["symbol"]},
 {"id":"sv10.5b","name":"Black Bolt","sources":[{"kind":"tcgdex","id":"sv10.5b"}],"added":"2026-10-29","series":"Scarlet & Violet","code":"BLK","released":"2025-07-17","official":86,"total":172,"logo":"https://assets.tcgdex.net/en/sv/sv10.5b/logo","symbol":"https://assets.tcgdex.net/univ/sv/sv10.5b/symbol","hosted":["logo"],"missing":["symbol"]},
 {"id":"mee","name":"Mega Evolution Energy","sources":[{"kind":"tcgdex","id":"mee"}],"added":"2026-10-29","series":"Mega Evolution","code":"MEE","released":"2025-09-25","official":16,"total":16},
-{"id":"mep","name":"MEP Black Star Promos","sources":[{"kind":"tcgdex","id":"mep"}],"added":"2026-10-29","series":"Mega Evolution","code":"MEP","released":"2025-09-26","total":112},
+{"id":"mep","name":"MEP Black Star Promos","sources":[{"kind":"tcgdex","id":"mep"},{"kind":"tcgplayer","id":"24451"}],"added":"2026-10-29","series":"Mega Evolution","code":"MEP","released":"2025-09-26","total":112,"former":["tcp24451"]},
 {"id":"me01","name":"Mega Evolution","sources":[{"kind":"tcgdex","id":"me01"}],"added":"2026-10-29","series":"Mega Evolution","code":"MEG","released":"2025-09-26","official":132,"total":188,"logo":"https://assets.tcgdex.net/en/me/me01/logo","symbol":"https://assets.tcgdex.net/univ/me/me01/symbol","hosted":["logo"],"missing":["symbol"]},
 {"id":"me02","name":"Phantasmal Flames","sources":[{"kind":"tcgdex","id":"me02"}],"added":"2026-10-29","series":"Mega Evolution","code":"PFL","released":"2025-11-14","official":94,"total":130,"logo":"https://assets.tcgdex.net/en/me/me02/logo","hosted":["logo"]},
 {"id":"me02.5","name":"Ascended Heroes","sources":[{"kind":"tcgdex","id":"me02.5"},{"kind":"tcgplayer","id":"24541"}],"added":"2026-10-29","series":"Mega Evolution","code":"ASC","released":"2026-01-30","official":217,"total":297,"logo":"https://assets.tcgdex.net/en/me/me02.5/logo","symbol":"https://assets.tcgdex.net/univ/me/me02.5/symbol","hosted":["logo"],"former":["tcp24541"],"missing":["symbol"]},
@@ -242,6 +242,5 @@
 {"id":"tcp2175","name":"Burger King Promos","sources":[{"kind":"tcgplayer","id":"2175"}],"added":"2026-10-29","released":"2008-01-01","official":130,"total":1,"kept":["Released"]},
 {"id":"tcp2374","name":"Miscellaneous Cards & Products","sources":[{"kind":"tcgplayer","id":"2374"}],"added":"2026-10-29","official":182,"total":23},
 {"id":"tcp2205","name":"Pikachu World Collection Promos","sources":[{"kind":"tcgplayer","id":"2205"}],"added":"2026-10-29","released":"2010-07-08","total":9,"kept":["Released"]},
-{"id":"tcp2332","name":"Professor Program Promos","sources":[{"kind":"tcgplayer","id":"2332"}],"added":"2026-10-29","official":109,"total":12},
-{"id":"tcp24451","name":"ME: Mega Evolution Promo","sources":[{"kind":"tcgplayer","id":"24451"}],"added":"2026-10-29","released":"2025-09-26","total":21,"review":true}
+{"id":"tcp2332","name":"Professor Program Promos","sources":[{"kind":"tcgplayer","id":"2332"}],"added":"2026-10-29","official":109,"total":12}
 ]
