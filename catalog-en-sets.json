@@ -235,9 +235,9 @@
 {"id":"tcp1423","name":"Nintendo Promos","sources":[{"kind":"tcgplayer","id":"1423"}],"added":"2026-10-29","released":"2003-10-01","official":97,"total":4,"logo":"https://den-media.pokellector.com/logos/Nintendo-Promos.logo.50.png","symbol":"https://den-media.pokellector.com/logos/Nintendo-Promos.symbol.50.png","review":true,"kept":["Released"],"hosted":["logo","symbol"]},
 {"id":"tcp1439","name":"POP Series 5","sources":[{"kind":"tcgplayer","id":"1439"}],"added":"2026-10-29","released":"2007-03-01","official":17,"total":1,"logo":"https://den-media.pokellector.com/logos/POP-Series-5.logo.102.png","symbol":"https://den-media.pokellector.com/logos/POP-Series-5.symbol.102.png","review":true,"kept":["Released"],"hosted":["logo","symbol"]},
 {"id":"tcp1938","name":"Alternate Art Promos","sources":[{"kind":"tcgplayer","id":"1938"}],"added":"2026-10-29","released":"2014-08-13","official":145,"total":29,"kept":["Released"]},
-{"id":"tcp2289","name":"Blister Exclusives","sources":[{"kind":"tcgplayer","id":"2289"}],"added":"2026-10-29","official":149,"total":1},
+{"id":"tcp2289","name":"Blister Exclusives","sources":[{"kind":"tcgplayer","id":"2289"}],"added":"2026-10-29","released":"2014-02-05","official":149,"total":1,"kept":["Released"]},
 {"id":"tcp2175","name":"Burger King Promos","sources":[{"kind":"tcgplayer","id":"2175"}],"added":"2026-10-29","released":"2008-01-01","official":130,"total":1,"kept":["Released"]},
-{"id":"tcp2374","name":"Miscellaneous Cards & Products","sources":[{"kind":"tcgplayer","id":"2374"}],"added":"2026-10-29","official":182,"total":23},
+{"id":"tcp2374","name":"Miscellaneous Cards & Products","sources":[{"kind":"tcgplayer","id":"2374"}],"added":"2026-10-29","released":"2009-12-01","official":182,"total":23,"kept":["Released"]},
 {"id":"tcp2205","name":"Pikachu World Collection Promos","sources":[{"kind":"tcgplayer","id":"2205"}],"added":"2026-10-29","released":"2010-07-08","total":9,"kept":["Released"]},
-{"id":"tcp2332","name":"Professor Program Promos","sources":[{"kind":"tcgplayer","id":"2332"}],"added":"2026-10-29","official":109,"total":12}
+{"id":"tcp2332","name":"Professor Program Promos","sources":[{"kind":"tcgplayer","id":"2332"}],"added":"2026-10-29","released":"2020-02-07","official":109,"total":12,"kept":["Released"]}
 ]
