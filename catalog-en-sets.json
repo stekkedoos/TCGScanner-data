@@ -240,5 +240,5 @@
 {"id":"tcp2374","name":"Miscellaneous Cards & Products","sources":[{"kind":"tcgplayer","id":"2374"}],"added":"2026-10-29","released":"2009-12-01","official":182,"total":23,"kept":["Released"]},
 {"id":"tcp2205","name":"Pikachu World Collection Promos","sources":[{"kind":"tcgplayer","id":"2205"}],"added":"2026-10-29","released":"2010-07-08","total":9,"kept":["Released"]},
 {"id":"tcp2332","name":"Professor Program Promos","sources":[{"kind":"tcgplayer","id":"2332"}],"added":"2026-10-29","released":"2020-02-07","official":109,"total":12,"kept":["Released"]},
-{"id":"tcp24938","name":"McDonald's Promos 2026","sources":[{"kind":"tcgplayer","id":"24938"}],"added":"2026-11-07","released":"2026-11-06","official":15,"total":14,"review":true}
+{"id":"tcp24938","name":"McDonald's Promos 2026","sources":[{"kind":"tcgplayer","id":"24938"}],"added":"2026-11-07","released":"2026-11-06","official":15,"total":14}
 ]
