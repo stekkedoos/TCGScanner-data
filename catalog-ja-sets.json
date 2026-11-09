@@ -463,5 +463,21 @@
 {"id":"tcp24206","name":"Vending Machine cards Series 1 (Blue)","sources":[{"kind":"tcgplayer","id":"24206"}],"added":"2026-10-29","released":"1998-03-23","total":36,"logo":"https://den-media.pokellector.com/logos/Vending-Series-1-Blue.logo.395.png","symbol":"https://den-media.pokellector.com/logos/Vending-Series-Blue.symbol.395.png","kept":["Released"],"hosted":["logo","symbol"]},
 {"id":"tcp24207","name":"Vending Machine cards Series 2 (Red)","sources":[{"kind":"tcgplayer","id":"24207"}],"added":"2026-10-29","released":"1998-06-17","total":36,"logo":"https://den-media.pokellector.com/logos/Vending-Series-2-Red.logo.396.png","symbol":"https://den-media.pokellector.com/logos/Vending-Series-2-Red.symbol.396.png","kept":["Released"],"hosted":["logo","symbol"]},
 {"id":"tcp24208","name":"Vending Machine cards Series 3 (Green)","sources":[{"kind":"tcgplayer","id":"24208"}],"added":"2026-10-29","released":"1998-11-24","total":52,"logo":"https://den-media.pokellector.com/logos/Vending-Series-3-Green.logo.397.png","symbol":"https://den-media.pokellector.com/logos/Vending-Series-3-Green.symbol.397.png","kept":["Released"],"hosted":["logo","symbol"]},
-{"id":"tcp24200","name":"World Hobby Fair","sources":[{"kind":"tcgplayer","id":"24200"}],"added":"2026-10-29","released":"1997-12-01","total":8,"kept":["Released"]}
+{"id":"tcp24200","name":"World Hobby Fair","sources":[{"kind":"tcgplayer","id":"24200"}],"added":"2026-10-29","released":"1997-12-01","total":8,"kept":["Released"]},
+{"id":"BW1b","name":"ホワイトコレクション","sources":[{"kind":"tcgdex","id":"BW1b"}],"added":"2026-11-09","series":"BW","released":"2010-12-17","official":53,"total":53,"review":true},
+{"id":"BW1a","name":"ブラックコレクション","sources":[{"kind":"tcgdex","id":"BW1a"}],"added":"2026-11-09","series":"BW","released":"2010-12-17","official":53,"total":53,"review":true},
+{"id":"BW2","name":"レッドコレクション","sources":[{"kind":"tcgdex","id":"BW2"}],"added":"2026-11-09","series":"BW","released":"2011-07-15","official":66,"total":66,"review":true},
+{"id":"BW3a","name":"サイコドライブ","sources":[{"kind":"tcgdex","id":"BW3a"}],"added":"2026-11-09","series":"BW","released":"2011-09-16","official":52,"total":52,"review":true},
+{"id":"BW4","name":"ダークラッシュ","sources":[{"kind":"tcgdex","id":"BW4"}],"added":"2026-11-09","series":"BW","released":"2011-12-16","official":69,"total":69,"review":true},
+{"id":"DS","name":"ドラゴンセレクション","sources":[{"kind":"tcgdex","id":"DS"}],"added":"2026-11-09","series":"BW","released":"2012-01-27","official":20,"total":20,"review":true},
+{"id":"BW5a","name":"リューズブラスト","sources":[{"kind":"tcgdex","id":"BW5a"}],"added":"2026-11-09","series":"BW","released":"2012-03-16","official":50,"total":50,"review":true},
+{"id":"BW5b","name":"リューノブレード","sources":[{"kind":"tcgdex","id":"BW5b"}],"added":"2026-11-09","series":"BW","released":"2012-03-16","official":50,"total":50,"review":true},
+{"id":"BW6b","name":"コールドフレア","sources":[{"kind":"tcgdex","id":"BW6b"}],"added":"2026-11-09","series":"BW","released":"2012-07-13","official":59,"total":59,"review":true},
+{"id":"BW6a","name":"フリーズボルト","sources":[{"kind":"tcgdex","id":"BW6a"}],"added":"2026-11-09","series":"BW","released":"2012-07-13","official":59,"total":59,"review":true},
+{"id":"BW7","name":"プラズマゲイル","sources":[{"kind":"tcgdex","id":"BW7"}],"added":"2026-11-09","series":"BW","released":"2012-09-14","official":70,"total":70,"review":true},
+{"id":"BW8a","name":"ラセンフォース","sources":[{"kind":"tcgdex","id":"BW8a"}],"added":"2026-11-09","series":"BW","released":"2012-12-14","official":51,"total":58,"review":true},
+{"id":"SC","name":"シャイニーコレクション","sources":[{"kind":"tcgdex","id":"SC"}],"added":"2026-11-09","series":"BW","released":"2013-02-01","official":20,"total":20,"review":true},
+{"id":"BW9","name":"メガロキャノン","sources":[{"kind":"tcgdex","id":"BW9"}],"added":"2026-11-09","series":"BW","released":"2013-03-15","official":76,"total":76,"review":true},
+{"id":"EBB","name":"EXバトルブースト","sources":[{"kind":"tcgdex","id":"EBB"}],"added":"2026-11-09","series":"BW","released":"2013-07-13","official":96,"total":96,"review":true},
+{"id":"WCS23","name":"ポケモンワールドチャンピオンシップス2023横浜 記念デッキ「ピカチュウ」","sources":[{"kind":"tcgdex","id":"WCS23"}],"added":"2026-11-09","series":"ポケモンカードゲーム スカーレット&バイオレット","released":"2023-07-28","official":30,"total":30,"review":true}
 ]
