@@ -479,5 +479,8 @@
 {"id":"SC","name":"シャイニーコレクション","sources":[{"kind":"tcgdex","id":"SC"}],"added":"2026-11-09","series":"BW","released":"2013-02-01","official":20,"total":20,"review":true},
 {"id":"BW9","name":"メガロキャノン","sources":[{"kind":"tcgdex","id":"BW9"}],"added":"2026-11-09","series":"BW","released":"2013-03-15","official":76,"total":76,"review":true},
 {"id":"EBB","name":"EXバトルブースト","sources":[{"kind":"tcgdex","id":"EBB"}],"added":"2026-11-09","series":"BW","released":"2013-07-13","official":96,"total":96,"review":true},
-{"id":"WCS23","name":"ポケモンワールドチャンピオンシップス2023横浜 記念デッキ「ピカチュウ」","sources":[{"kind":"tcgdex","id":"WCS23"}],"added":"2026-11-09","series":"ポケモンカードゲーム スカーレット&バイオレット","released":"2023-07-28","official":30,"total":30,"review":true}
+{"id":"WCS23","name":"ポケモンワールドチャンピオンシップス2023横浜 記念デッキ「ピカチュウ」","sources":[{"kind":"tcgdex","id":"WCS23"}],"added":"2026-11-09","series":"ポケモンカードゲーム スカーレット&バイオレット","released":"2023-07-28","official":30,"total":30,"review":true},
+{"id":"BW3b","name":"ヘイルブリザード","sources":[{"kind":"tcgdex","id":"BW3b"}],"added":"2026-11-16","series":"BW","released":"2011-09-16","official":52,"total":52,"review":true},
+{"id":"BW8b","name":"ライデンナックル","sources":[{"kind":"tcgdex","id":"BW8b"}],"added":"2026-11-16","series":"BW","released":"2012-12-14","official":51,"total":51,"review":true},
+{"id":"tcp24945","name":"mG: Mega Feraligatr ex, Mega Dragonite ex, and Mega Gengar ex Special Deck Set","sources":[{"kind":"tcgplayer","id":"24945"}],"added":"2026-11-16","code":"mG","released":"2026-11-13","official":38,"total":38,"review":true}
 ]
